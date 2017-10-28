@@ -1,4 +1,4 @@
-![Rocket.Chat logo](https://rocket.chat/images/logo/logo-dark.svg?v3)
+![Rocket.Chat logo](https://i2.wp.com/devops.com/wp-content/uploads/2014/07/chatops.jpg?w=770&ssl=1)
 
 # The Ultimate Open Source WebChat Platform
 
